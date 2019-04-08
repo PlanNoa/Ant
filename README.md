@@ -1,4 +1,4 @@
-# Ant
+# Deep-ANT-Model
 
 ![](./model.PNG)
 
@@ -14,4 +14,12 @@ I expect each person to do slightly different things in the process of updating 
 
 The influence of the queen ants on the ants will prevent the ants from becoming too different.
 
+## What is this meaning?
+
 This model learn like real ant kingdom in the nature.
+
+Modern artificial intelligence technology is not enough to make strong artificial intelligence. 
+
+However, I do not learn only as a model, but I think that if several models learn and combine their strength, they will be a little closer to strong artificial intelligence.
+
+Each ant is stupid, but the ant kingdom is smart. We call it Collective intelligence.
