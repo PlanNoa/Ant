@@ -22,7 +22,7 @@ Modern artificial intelligence technology is not enough to make strong artificia
 
 However, I do not learn only as a model, but I think that if several models learn and combine their strength, they will be a little closer to strong artificial intelligence.
 
-Each ant is stupid, but the ant kingdom is smart. We call it Collective intelligence.
+Each ant is stupid, but the ants are smart. We call it Collective intelligence.
 
 ## So.. What are the ants doing?
 
