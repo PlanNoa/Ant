@@ -26,6 +26,7 @@ Each ant is stupid, but the ant kingdom is smart. We call it Collective intellig
 
 ## So.. What are the ants doing?
 
-The ants distribute the work.
+### Plan A
 
+The ants distribute the work.
 Normal ants will update their accuracy and he queen ant will adjust the ratio between jobs.
