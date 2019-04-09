@@ -34,4 +34,3 @@ Normal ants will update their accuracy and he queen ant will adjust the ratio be
 
 ### Plan B
 
-### Plan C
