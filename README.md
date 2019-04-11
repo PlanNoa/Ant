@@ -28,9 +28,5 @@ Each ant is stupid, but the ants are smart. We call it Collective intelligence.
 
 ### Plan A
 
-The ants distribute the work.
-
-Normal ants will update their accuracy and he queen ant will adjust the ratio between jobs.
-
 ### Plan B
 
