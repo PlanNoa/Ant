@@ -3,7 +3,7 @@
 ![](./model.PNG)
 
 Every ant model has two outputs. One of them updates itself, and the other updates the queen ant model. 
-
+s
 The queen ant model updates all of the ant models by the same value as the sum of the outputs of all the ant models. 
 
 The queen ant model tries to maximize the total benefit of the ant kingdom. 
@@ -24,9 +24,6 @@ However, I do not learn only as a model, but I think that if several models lear
 
 Each ant is stupid, but the ants are smart. We call it Collective intelligence.
 
-## So.. What are the ants doing?
+## So.. Where we can use the ant model?
 
-### Plan A
-
-### Plan B
-
+I think we can use this model when we simulating something.
