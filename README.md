@@ -2,28 +2,8 @@
 
 ![](./model.PNG)
 
-Every ant model has two outputs. One of them updates itself, and the other updates the queen ant model. 
-s
-The queen ant model updates all of the ant models by the same value as the sum of the outputs of all the ant models. 
+강한 인공지능과 약한 인공지능의 차이는 스스로 "성장"한다는 점이다. 학습이 아닌 성장. 강한 인공지능은 주어진 개념..ex)사진 인식, 체스 등 한 가지 종목의 정보를 받고, 학습하는 것이 아닌 스스로 종목을 배우는 것이다. 강한 인공지능은 체스를 학습하다가도, 바둑판을 보고 새로 바둑을 배울 수 있어야 한다.
 
-The queen ant model tries to maximize the total benefit of the ant kingdom. 
+그리고 난 이 새로운 개념을 학습한다는 것을, 새로운 학습 레이어를 만드는 것과 같다고 본다. 인간의 뇌는 초기에 매우 많은 뉴런을 생성한다. 그리고 성장 과정에 따라 불필요하다고 느끼는 뉴런을 제거하고, 다시 만들기도 한다. 본래 강한 인공지능은 사람을 대체, 능가하기 위해 만들어지는 만큼, 모델을 생성하는 모델이 필요하지 않을까?
 
-The ant model does not have to be complicated, but has to do different things. 
-
-I expect each person to do slightly different things in the process of updating themselves. 
-
-The influence of the queen ants on the ants will prevent the ants from becoming too different.
-
-## What is this meaning?
-
-This model learn like real ant kingdom in the nature.
-
-Modern artificial intelligence technology is not enough to make strong artificial intelligence. 
-
-However, I do not learn only as one model, but I think that if several models learn and combine their strength, they will be a little closer to strong artificial intelligence.
-
-Each ant is stupid, but the ants are smart. We call it Collective intelligence.
-
-## So.. Where we can use the ant model?
-
-I think we can use this model when we simulating something.
+그래서 난 이 개미 모델을 생각해냈다. 생각일 뿐이고, 구체적인 계획도 없지만, 인간의 뇌 성장 구조와 비슷하지 않을까 생각한다. 일개미 모델이 스스로 학습하고 성과를 가져오면, 이 여왕개미 모델은 개미 모델을 폐기하거나, 새로 만든다. 하나의 작은 사회가 만들어지는 것이다.
